@@ -2,8 +2,6 @@
 
 Aplikacja wykorzystująca API do wyświetlania stacji rowerowych w Poznaniu i dostępności rowerów w nich.
 
-Aplikacja pozwala na rejestrację użytkownika, zalogowanie się kontem do aplikacji. Aplikacja posiada interaktywną mapę budynku z pokojami objętymi obserwacją. Pozwala na obserwację obrazu z obserwowanych pokojów oraz informuje użytkowników o zaistniałych zagrożeniach.
-
 ## Instalacja i konfiguracja
 
 Należy pobrać projekt jako ZIP i uruchomić go w Android Studio.
